@@ -1,5 +1,8 @@
-<h1>Joathan Leriey</h1>
+:alien: <h1>Joathan Leriey</h1> :alien:
 
-<p>Este é o texto de apresentação de vocês</p>
+<h3> Liguagens </h3>
 
-<p>Fim.git</p>
+giy<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
+
+<p>Fim</p>
