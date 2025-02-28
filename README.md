@@ -1,4 +1,4 @@
-<div> :alien: <h1>Joathan Leriey</h1> :alien:</div>
+<h1>:alien: Joathan Leriey</h1>
 
 <h3> Liguagens </h3>
 
