@@ -1,8 +1,7 @@
-:alien: <h1>Joathan Leriey</h1> :alien:
+<div> :alien: <h1>Joathan Leriey</h1> :alien:</div>
 
 <h3> Liguagens </h3>
 
-giy<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width: 50% />
 
 <p>Fim</p>
