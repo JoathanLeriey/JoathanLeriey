@@ -1,4 +1,4 @@
-<h1>Joathan Leriey:alien:</h1>
+<h1>Joathan Leriey</h1>
 
 <p>Programado iniciante</p>
 
